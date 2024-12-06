@@ -43,9 +43,9 @@
     <key>openTypeNamePreferredSubfamilyName</key>
     <string>Regular</string>
     <key>openTypeNameUniqueID</key>
-    <string>Chocolate Classical Sans: Version 1.001</string>
+    <string>Chocolate Classical Sans: Version 1.002</string>
     <key>openTypeNameVersion</key>
-    <string>Version 1.001</string>
+    <string>Version 1.002</string>
     <key>openTypeOS2CodePageRanges</key>
     <array>
       <integer>0</integer>
@@ -86,6 +86,18 @@
     <integer>1160</integer>
     <key>openTypeOS2WinDescent</key>
     <integer>288</integer>
+    <key>openTypeVheaCaretOffset</key>
+    <integer>0</integer>
+    <key>openTypeVheaCaretSlopeRise</key>
+    <integer>13</integer>
+    <key>openTypeVheaCaretSlopeRun</key>
+    <integer>1</integer>
+    <key>openTypeVheaVertTypoAscender</key>
+    <integer>500</integer>
+    <key>openTypeVheaVertTypoDescender</key>
+    <integer>-500</integer>
+    <key>openTypeVheaVertTypoLineGap</key>
+    <integer>0</integer>
     <key>postscriptFontName</key>
     <string>ChocolateClassicalSans-Regular</string>
     <key>postscriptUnderlinePosition</key>
@@ -101,7 +113,7 @@
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
-    <integer>1</integer>
+    <integer>2</integer>
     <key>xHeight</key>
     <integer>543</integer>
   </dict>
